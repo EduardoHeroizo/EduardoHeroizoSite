@@ -5,7 +5,7 @@ import fotoEduardo from "../assets/foto_eduardo.jpg";
 
 function AboutMe() {
   return (
-    <div className="bg-white border border-black rounded-xl shadow-2xl w-[500px] min-h-[700px] p-6 flex flex-col items-center gap-y-8">
+    <div className="bg-white border border-black rounded-xl shadow-2xl w-[500px] min-h-[620px] p-6 flex flex-col items-center gap-y-2">
       
       <div className="w-full grid grid-cols-[130px_1fr_130px] items-center">
         <div className="relative justify-self-start">
