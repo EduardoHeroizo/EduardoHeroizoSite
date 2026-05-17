@@ -5,8 +5,7 @@ import fotoEduardo from "../assets/foto_eduardo.jpg";
 
 function AboutMe() {
   return (
-    <div className="bg-white border border-black rounded-xl shadow-2xl w-[500px] min-h-[620px] p-6 flex flex-col items-center gap-y-2">
-      
+<div className="bg-white rounded-xl border border-black shadow-[6px_6px_0px_#000] w-[500px] min-h-[620px] p-6 flex flex-col items-center gap-y-2 transition-transform duration-300 hover:-translate-y-1 hover:shadow-[9px_9px_0px_#000]">      
       <div className="w-full grid grid-cols-[130px_1fr_130px] items-center">
         <div className="relative justify-self-start">
           <img
@@ -43,7 +42,7 @@ function AboutMe() {
         />
       </div>
       
-      <div className="w-full h-[1px] bg-gray-300" />
+      <div className="w-full h-[2px] bg-gray-300 mt-6 mb-4"></div>
 
       <p className="font-comic text-lg leading-relaxed text-center text-black/70">
         Hello, my name is Eduardo. I am a Computer Science undergraduate at the

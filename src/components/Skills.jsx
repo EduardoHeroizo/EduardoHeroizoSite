@@ -13,8 +13,9 @@ import linuxIcon from "../assets/skills/linux.png";
 
 function Skills() {
   return (
-    <div className="bg-white border border-black rounded-xl shadow-2xl w-[560px] min-h-[250px] p-6 flex flex-col items-center">
-      <h1 className="font-comic text-3xl font-bold mb-6">
+<div className="bg-white rounded-xl border border-black shadow-[6px_6px_0px_#000] w-[560px] min-h-[250px] 
+p-6 flex flex-col items-center transition-transform duration-300 hover:-translate-y-1 hover:shadow-[9px_9px_0px_#000]">      
+    <h1 className="font-comic text-3xl font-bold mb-6">
         Skills
       </h1>
 
@@ -295,10 +296,6 @@ function Skills() {
           </div>
         </div>
       </div>
-
-    <div className="w-full h-[1px] bg-gray-300 mt-3" />
-
-
     </div>
   );
 }
