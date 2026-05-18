@@ -11,7 +11,7 @@ function Download() {
       <a
         href={curriculo}
         download="Curriculo_EduardoHeroizo.pdf"
-        className="font-comic text-xl text-black bg-yellow-100 border-2 border-black rounded-full px-6 py-3 shadow-[4px_4px_0px_#000] hover:bg-yellow-200 transition-all duration-300 flex items-center gap-2"
+        className="font-comic text-xl text-black bg-yellow-100 border-2 border-black rounded-full px-6 py-3  hover:bg-yellow-200 transition-all duration-300 flex items-center gap-2"
       >
         <DownloadIcon className="w-6 h-6" />
         Download Resume
