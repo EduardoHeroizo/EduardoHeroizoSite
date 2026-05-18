@@ -34,7 +34,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[75%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[75%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -57,7 +57,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[20%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[20%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -80,7 +80,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[60%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[60%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -103,7 +103,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[45%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[45%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -126,7 +126,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[70%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[70%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -149,7 +149,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[75%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[75%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -172,7 +172,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[75%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[75%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -195,7 +195,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[46%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[46%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -218,7 +218,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[20%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[20%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -241,7 +241,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[47%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[47%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -264,7 +264,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[21%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[21%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">
@@ -287,7 +287,7 @@ p-6 flex flex-col items-center transition-transform duration-300 hover:-translat
             </p>
 
             <div className="w-full h-3 bg-gray-200 rounded-full overflow-hidden">
-              <div className="h-full w-[42%] bg-green-500 rounded-full"></div>
+              <div className="h-full w-[42%] bg-blue-400 rounded-full"></div>
             </div>
 
             <p className="font-comic text-xl text-black/70 mt-2 text-center">

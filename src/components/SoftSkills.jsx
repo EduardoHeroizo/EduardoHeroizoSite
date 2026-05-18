@@ -34,15 +34,15 @@ function SoftSkills() {
       </h3>
 
       <div className="flex flex-col items-center gap-3">
-        <span className="font-comic text-lg text-black/80 bg-yellow-400 border-2 border-black rounded-full px-4 py-2 shadow-[3px_3px_0px_#000] w-[260px] text-center">
+        <span className="font-comic text-lg text-black/80 bg-blue-300 border-2 border-black rounded-full px-4 py-2 shadow-[3px_3px_0px_#000] w-[260px] text-center">
           English — Advanced
         </span>
 
-        <span className="font-comic text-lg text-black/80 bg-yellow-500 border-2 border-black rounded-full px-4 py-2 shadow-[3px_3px_0px_#000] w-[260px] text-center">
+        <span className="font-comic text-lg text-black/80 bg-blue-200 border-2 border-black rounded-full px-4 py-2 shadow-[3px_3px_0px_#000] w-[260px] text-center">
           Portuguese — Native
         </span>
 
-        <span className="font-comic text-lg text-black/80 bg-yellow-400 border-2 border-black rounded-full px-4 py-2 shadow-[3px_3px_0px_#000] w-[260px] text-center">
+        <span className="font-comic text-lg text-black/80 bg-blue-300 border-2 border-black rounded-full px-4 py-2 shadow-[3px_3px_0px_#000] w-[260px] text-center">
           Spanish — Beginner
         </span>
       </div>

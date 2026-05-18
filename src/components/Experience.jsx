@@ -7,7 +7,7 @@ function Experience() {
 
       <div className="w-full max-h-[500px] overflow-y-auto pr-2 flex flex-col gap-4">
         {/* Experience 1 */}
-        <div className="bg-yellow-100 border-2 border-black rounded-xl p-4 shadow-[4px_4px_0px_#000]">
+        <div className="bg-yellow-100 border-2 border-black rounded-xl p-4 ">
           <h2 className="font-comic text-xl font-bold text-black">
             Logic for Computing Teaching Assistant
           </h2>
@@ -24,7 +24,7 @@ function Experience() {
         </div>
 
         {/* Experience 2 */}
-        <div className="bg-yellow-50 border-2 border-black rounded-xl p-4 shadow-[4px_4px_0px_#000]">
+        <div className="bg-yellow-50 border-2 border-black rounded-xl p-4 ">
           <h2 className="font-comic text-xl font-bold text-black">
             Software Development Intern
           </h2>
@@ -41,7 +41,7 @@ function Experience() {
         </div>
 
         {/* Experience 3 */}
-        <div className="bg-yellow-100 border-2 border-black rounded-xl p-4 shadow-[4px_4px_0px_#000]">
+        <div className="bg-yellow-100 border-2 border-black rounded-xl p-4 ">
           <h2 className="font-comic text-xl font-bold text-black">
             Programming 2 Lab Assistant
           </h2>
