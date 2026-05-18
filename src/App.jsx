@@ -3,6 +3,7 @@ import ContactMe from "./components/ContactMe";
 import Skills from "./components/Skills";
 import SoftSkills from "./components/SoftSkills";
 import Download from "./components/Download";
+import Experience from "./components/Experience";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
 
         <div className="flex flex-col gap-y-4">
           <Download />
+          <Experience/>
         </div>
 
       </div>
