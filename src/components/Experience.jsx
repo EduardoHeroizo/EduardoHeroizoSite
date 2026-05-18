@@ -87,7 +87,7 @@ function Experience() {
         {/* Experience 3 */}
         <div className="bg-yellow-100 border-2 border-black rounded-xl p-3 sm:p-4">
           <h2 className="font-comic text-lg sm:text-xl font-bold text-black">
-            Programming 2 Lab Assistant
+            Programming II Lab Teaching Assistant
           </h2>
 
           <p className="font-comic text-xs sm:text-sm text-black/60 mb-3">
